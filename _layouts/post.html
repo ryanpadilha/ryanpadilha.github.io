@@ -39,7 +39,7 @@ post_class: post-template
 
                         <span class="post-date"><i class="far fa-star"></i> {{ page.date | date_to_string }}</span>
                         <span class="s" aria-hidden="true" style="padding-left: 5px; padding-right: 5px;"><span class="am b bm ah aj">·</span></span>
-                        <span class="post-date">{{ content | number_of_words | divided_by: 180 }} min read</span>
+                        <span class="post-date"><i class="far fa-clock clock"></i> {{ content | number_of_words | divided_by: 180 }} min read</span>
                     </div>
                 </div>
                 {% endif %}
