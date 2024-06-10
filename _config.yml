@@ -60,8 +60,3 @@ adsense-data-ad-slot: ""
 lazyimages: "enabled"
 
 exclude: [Gemfile, Gemfile.lock]
-
-reading_time:
-  second_plural: "sec"    # default: seconds
-  minute_singular: "min"  # default: minute
-  minute_plural: "min"    # default: minutes
