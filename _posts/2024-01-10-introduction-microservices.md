@@ -4,6 +4,7 @@ title:  "Introdução a Microservices"
 author: ryanpadilha
 categories: [ Architecture, System Design, Microservices ]
 image: assets/images/ct-1/image-3-2048x1248.png
+#description: ""
 featured: false
 hidden: false
 comments: false

@@ -3,10 +3,10 @@ layout: post
 title:  "Preparação para a certificação AWS Cloud Practitioner"
 author: ryanpadilha
 categories: [ Certification, Cloud Computing, AWS ]
-#image: assets/images/11.jpg
+image: assets/images/ct-2/aws-certified-cloud-practitioner.png
 #description: ""
 featured: false
-hidden: true
+hidden: false
 comments: false
 #rating: 4.5
 ---
