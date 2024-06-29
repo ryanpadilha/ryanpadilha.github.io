@@ -6,6 +6,7 @@ categories: [ Architecture, System Design, Microservices ]
 image: assets/images/ct-1/image-3-2048x1248.png
 featured: false
 hidden: false
+comments: false
 ---
 
 Atualmente muito se fala a respeito de desenvolvimento de software utilizando uma arquitetura moderna, escalável e que seja de certa forma de baixo custo, entretanto, muitas pessoas não percebem que assim como existem diversos benefícios em uma nova forma de realizar o design de uma solução, há contra-tempos que na maioria das vezes invibializam o projeto a ser desenvolvido a depender do desenho arquitetural.

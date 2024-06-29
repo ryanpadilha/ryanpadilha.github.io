@@ -7,6 +7,7 @@ categories: [ Certification, Cloud Computing, AWS ]
 #description: ""
 featured: false
 hidden: true
+comments: false
 #rating: 4.5
 ---
 
