@@ -26,14 +26,10 @@ comments: false
 <p>On a personal note, I love to travel and connect with nature. My interests go beyond software development to include playing with my cat, working out at the gym, swimming at the beach, trekking, enjoying meals at good restaurants, and meeting new people. I'm passionate about reading books on a wide range of subjects: human behavior, psychology, philosophy, Buddhism, science fiction, administration, business, marketing, education, and technology.</p>
 
 <p>If you want, contact me at <a href="https://www.linkedin.com/in/ryanpadilha" target="_blank">LinkedIn</a>.</p>
-
-
 </div>
 
 <div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
-
 <div style="text-align: center;">
     <img src="/assets/images/profile-ryanpadilha.png" alt="Ryan Padilha">
     <p>Ryan Padilha</p>
