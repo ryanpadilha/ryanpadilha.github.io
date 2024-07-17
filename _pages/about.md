@@ -39,8 +39,8 @@ comments: false
 <p><a href="https://www.credly.com/users/ryan-padilha" target="_blank">Credly Badges</a> </p>
 <p><strong>Download my complete resume</strong></p>
 <ul style="list-style-type: none; margin: 0; padding-left: 15px;">
-    <li style="padding-bottom: 20px;"><a href="https://assets.ryanpadilha.com.br/resume/cv-ryanpadilha-en-2024v10.pdf" class="bold" target="_resume_en"><img src="/assets/images/usa-flag.webp" class="img-fluid" style="width: 45px;" alt="Resume English version"> &nbsp; English version</a></li>
-	<li><a href="https://assets.ryanpadilha.com.br/resume/cv-ryanpadilha-pt-2024v10.pdf" class="bold" target="_resume_pt"><img src="/assets/images/brazil-flag.webp" class="img-fluid" style="width: 45px;" alt="Resume Portuguese version"> &nbsp; Portuguese version</a></li>
+    <li style="padding-bottom: 20px;"><a href="https://assets.ryanpadilha.com.br/resume/cv-ryanpadilha-en-2024v11.pdf" class="bold" target="_resume_en"><img src="/assets/images/usa-flag.webp" class="img-fluid" style="width: 45px;" alt="Resume English version"> &nbsp; English version</a></li>
+	<li><a href="https://assets.ryanpadilha.com.br/resume/cv-ryanpadilha-pt-2024v11.pdf" class="bold" target="_resume_pt"><img src="/assets/images/brazil-flag.webp" class="img-fluid" style="width: 45px;" alt="Resume Portuguese version"> &nbsp; Portuguese version</a></li>
 </ul>
 
 </div>

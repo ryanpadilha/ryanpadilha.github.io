@@ -6,7 +6,7 @@ categories: [ Certification, Cloud Computing, AWS ]
 image: assets/images/ct-2/aws-certified-cloud-practitioner-cover-v.png
 #description: ""
 featured: false
-hidden: false
+hidden: true
 comments: false
 #rating: 4.5
 ---
