@@ -1,7 +1,7 @@
 # Site
 name: "Ryan Padilha"
 title: "Ryan Padilha"
-#description: "Jekyll template, Medium styled, free for bloggers."
+description: "With 16+ years of experience, I excel in digital transformation, cloud computing, and modern tech solutions. Proficient in AWS, Java, Python, and microservices architecture, I lead cross-functional teams, driving rapid growth. Passionate about R&D, problem-solving, and continuous learning, I thrive on challenges and consistently exceed goals."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: /blog
@@ -19,7 +19,7 @@ authors:
     gravatar: a27132d9f4553243e4359ad6341082f2
     email: ryan.padilha@gmail.com
     web: https://www.linkedin.com/in/ryanpadilha
-    description: "Solutions Architect at Gambling Industry"
+    description: "Solutions Architect at Banking Industry"
 
 # Plugins
 plugins:
